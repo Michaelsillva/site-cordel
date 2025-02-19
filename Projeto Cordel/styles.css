@@ -32,11 +32,11 @@ a:hover{
     text-decoration: underline;
 }
 section{
-    padding-top: 10vh;
-    padding-bottom: 10vh;
+    padding-top: 8vh;
+    padding-bottom: 8vh;
     line-height: 2em;
     padding-left: 30px;
-    font-size: 2.8vw;
+    font-size: 3.2vw;
 }
 section p{
     padding-bottom: 3em;
@@ -48,7 +48,7 @@ section p{
 .imagens{
     background-color: grey;
     background-image: url('imagens/background001.jpg');
-    background-position: right center;
+    background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
